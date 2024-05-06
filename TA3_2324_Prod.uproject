@@ -12,7 +12,7 @@
 			]
 		},
 		{
-			"Name": "GPULightmass",
+			"Name": "PCG",
 			"Enabled": true
 		}
 	]
